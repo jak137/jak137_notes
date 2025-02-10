@@ -10,7 +10,7 @@ Shell=.stl
 Open=openscad %f
 ```
 
-Press <F5> to show preview.
+Press `<F5>` to show preview.
 
 
 ### Preview Jupyter notebooks (code only) with https://jqlang.org/ 
